@@ -1,0 +1,3 @@
+export const REQUEST = 'MATERIALS_REQUEST';
+export const SUCCESS = 'MATERIALS_SUCCESS';
+export const FAILURE = 'MATERIALS_FAILURE';

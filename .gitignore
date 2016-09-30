@@ -1,0 +1,4 @@
+node_modules
+public
+build
+server/app/config/config.json
